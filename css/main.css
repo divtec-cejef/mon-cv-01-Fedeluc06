@@ -1,71 +1,73 @@
 body {
-    font-family: Bahnschrift,sans-serif;
+    font-family: Roboto, sans-serif;
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.4;
     color: #9effa9;
-    background-color:#003947 ;
-    background-image: url("");
-    background-position:bottom;
-    background-repeat: no-repeat;
-    background-size: 600px;
+    background-image: url(../images/fond2.jpg);
+    background-size: cover;
     max-width: 600px;
     margin: 0 auto;
     padding-bottom: 200px;
-}
+    display: compact;
+
 }
 
 h1 {
     background-color: rgba(0, 0 ,0 ,0 );
-    color: #9effa9;
-    text-shadow: ghostwhite 0px 0px 6px;
+    color: yellow;
+    text-shadow: ghostwhite 1px 1px 3px;
     font-size: xxx-large;
     background-size: auto;
     display: flex;
-
 }
+
 #comp {
-    color: #9effa9;
-    margin-left: 305px;
+    color: yellow;
     display: flex;
 }
-#form {
 
-    color: #9effa9;
-    margin-left: 305px;
+#form {
+    color: yellow;
     display: flex;
 }
+
 #exp {
-    color: #9effa9;
-    margin-left: 305px;
+    color: yellow;
     display: flex;
 }
+
 .fond{
     background-color: grey;
-    color: #9effa9;
+    color: yellow;
     margin-left: 305px;
 }
+
 img {
     max-width: 100%;
     border : 2px solid #000000;
     border-width: 10px;
     border-style: dashed;
-    border-color: #9effa9;
+    border-color: yellow;
     margin: auto;
     display: flex;
-
 }
+
 .texte-exp {
-    color: #9effa9;
-    margin-left: 305px;
+    color: yellow;
     display: flex;
+    font-size: larger;
 }
+
 .texte-lien {
-    color: #9effa9;
+    color:yellow;
 
 }
-li {
-    color: darkorange;
-    
 
+li {
+    color: yellow;
+}
+
+#undertop {
+    color: lightblue;
 }
