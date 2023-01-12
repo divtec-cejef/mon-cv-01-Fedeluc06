@@ -1,18 +1,71 @@
 body {
-    background: darkred;
-    color: gold;
+    font-family: Bahnschrift,sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    color: #9effa9;
+    background-color:#003947 ;
+    background-image: url("");
+    background-position:bottom;
+    background-repeat: no-repeat;
+    background-size: 600px;
+    max-width: 600px;
+    margin: 0 auto;
+    padding-bottom: 200px;
+}
 }
 
 h1 {
-    color: aqua;
+    background-color: rgba(0, 0 ,0 ,0 );
+    color: #9effa9;
+    text-shadow: ghostwhite 0px 0px 6px;
+    font-size: xxx-large;
+    background-size: auto;
+    display: flex;
+
 }
 #comp {
-    color: greenyellow;
+    color: #9effa9;
+    margin-left: 305px;
+    display: flex;
 }
 #form {
 
-    color: darkorange;
+    color: #9effa9;
+    margin-left: 305px;
+    display: flex;
+}
+#exp {
+    color: #9effa9;
+    margin-left: 305px;
+    display: flex;
 }
 .fond{
-    background-color: black;
+    background-color: grey;
+    color: #9effa9;
+    margin-left: 305px;
+}
+img {
+    max-width: 100%;
+    border : 2px solid #000000;
+    border-width: 10px;
+    border-style: dashed;
+    border-color: #9effa9;
+    margin: auto;
+    display: flex;
+
+}
+.texte-exp {
+    color: #9effa9;
+    margin-left: 305px;
+    display: flex;
+}
+.texte-lien {
+    color: #9effa9;
+
+}
+li {
+    color: darkorange;
+    
+
 }
