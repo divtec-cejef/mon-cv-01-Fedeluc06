@@ -14,12 +14,16 @@ body {
 }
 
 h1 {
-    background-color: rgba(0, 0 ,0 ,0 );
     color: yellow;
     text-shadow: ghostwhite 1px 1px 3px;
     font-size: xxx-large;
     background-size: auto;
     display: flex;
+}
+h1:hover {
+color: red;
+}
+
 }
 
 #comp {
@@ -45,12 +49,17 @@ h1 {
 
 img {
     max-width: 100%;
-    border : 2px solid #000000;
+    border: 2px solid #000000;
     border-width: 10px;
     border-style: dashed;
     border-color: yellow;
     margin: auto;
     display: flex;
+}
+h1:hover {
+    color: #CDF0EA;
+}
+
 }
 
 .texte-exp {
@@ -71,3 +80,6 @@ li {
 #undertop {
     color: lightblue;
 }
+
+
+
