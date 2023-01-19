@@ -20,10 +20,9 @@ h1 {
     background-size: auto;
     display: flex;
 }
+
 h1:hover {
 color: red;
-}
-
 }
 
 #comp {
@@ -56,11 +55,6 @@ img {
     margin: auto;
     display: flex;
 }
-h1:hover {
-    color: #CDF0EA;
-}
-
-}
 
 .texte-exp {
     color: yellow;
@@ -78,7 +72,9 @@ li {
 }
 
 #undertop {
-    color: lightblue;
+    color: black;
+    margin-right: 290px;
+    background-color: darkorange;
 }
 
 
