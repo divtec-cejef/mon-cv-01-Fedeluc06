@@ -10,7 +10,6 @@ body {
     margin: 0 auto;
     padding-bottom: 200px;
     display: compact;
-
 }
 
 h1 {
@@ -26,17 +25,17 @@ color: red;
 }
 
 #comp {
-    color: yellow;
+    color: deepskyblue;
     display: flex;
 }
 
 #form {
-    color: yellow;
+    color: deepskyblue;
     display: flex;
 }
 
 #exp {
-    color: yellow;
+    color: deepskyblue;
     display: flex;
 }
 
@@ -64,7 +63,6 @@ img {
 
 .texte-lien {
     color:deepskyblue;
-
 }
 
 li {
@@ -74,8 +72,9 @@ li {
 #undertop {
     color: black;
     margin-right: 290px;
-    background-color:grey;
 }
 
-
+#undertop:hover{
+    background-color: grey;
+}
 
